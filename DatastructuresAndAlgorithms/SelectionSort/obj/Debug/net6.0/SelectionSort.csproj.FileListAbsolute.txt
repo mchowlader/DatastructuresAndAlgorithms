@@ -1,0 +1,15 @@
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\bin\Debug\net6.0\SelectionSort.exe
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\bin\Debug\net6.0\SelectionSort.deps.json
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\bin\Debug\net6.0\SelectionSort.runtimeconfig.json
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\bin\Debug\net6.0\SelectionSort.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\bin\Debug\net6.0\ref\SelectionSort.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\bin\Debug\net6.0\SelectionSort.pdb
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.AssemblyReference.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\obj\Debug\net6.0\SelectionSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfoInputs.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\obj\Debug\net6.0\SelectionSort.AssemblyInfo.cs
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\obj\Debug\net6.0\SelectionSort.csproj.CoreCompileInputs.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\obj\Debug\net6.0\SelectionSort.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\obj\Debug\net6.0\ref\SelectionSort.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\obj\Debug\net6.0\SelectionSort.pdb
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\SelectionSort\obj\Debug\net6.0\SelectionSort.genruntimeconfig.cache
