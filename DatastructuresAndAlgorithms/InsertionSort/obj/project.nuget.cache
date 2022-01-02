@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "pKwoiBmP8opTcMMvV4D57OSdkUY9BvFywBpQ31UrcLgFpMKC8MJNO2AEoKTCw2exaWuLSQTvLiPDy/owQUeudg==",
+  "dgSpecHash": "S18HXeOhYD4oL+Qtzh9BhsL83m/Dphqsc9g5Ot5IJRqdH5hpIothEv+BaceOWmt0uA8n0Vh0M4xnQhlrCclr7A==",
   "success": true,
   "projectFilePath": "D:\\Logic\\DatastructuresAndAlgorithms\\DatastructuresAndAlgorithms\\InsertionSort\\InsertionSort.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\lenovo\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
-  ],
+  "expectedPackageFiles": [],
   "logs": []
 }

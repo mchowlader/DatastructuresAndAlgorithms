@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Logic\\DatastructuresAndAlgorithms\\DatastructuresAndAlgorithms\\InsertionSort\\InsertionSort.csproj": {}
+    "D:\\Logic\\DatastructuresAndAlgorithms\\DatastructuresAndAlgorithms\\Stack\\Stack.csproj": {}
   },
   "projects": {
-    "D:\\Logic\\DatastructuresAndAlgorithms\\DatastructuresAndAlgorithms\\InsertionSort\\InsertionSort.csproj": {
+    "D:\\Logic\\DatastructuresAndAlgorithms\\DatastructuresAndAlgorithms\\Stack\\Stack.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Logic\\DatastructuresAndAlgorithms\\DatastructuresAndAlgorithms\\InsertionSort\\InsertionSort.csproj",
-        "projectName": "InsertionSort",
-        "projectPath": "D:\\Logic\\DatastructuresAndAlgorithms\\DatastructuresAndAlgorithms\\InsertionSort\\InsertionSort.csproj",
+        "projectUniqueName": "D:\\Logic\\DatastructuresAndAlgorithms\\DatastructuresAndAlgorithms\\Stack\\Stack.csproj",
+        "projectName": "Stack",
+        "projectPath": "D:\\Logic\\DatastructuresAndAlgorithms\\DatastructuresAndAlgorithms\\Stack\\Stack.csproj",
         "packagesPath": "C:\\Users\\lenovo\\.nuget\\packages\\",
-        "outputPath": "D:\\Logic\\DatastructuresAndAlgorithms\\DatastructuresAndAlgorithms\\InsertionSort\\obj\\",
+        "outputPath": "D:\\Logic\\DatastructuresAndAlgorithms\\DatastructuresAndAlgorithms\\Stack\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lenovo\\AppData\\Roaming\\NuGet\\NuGet.Config",

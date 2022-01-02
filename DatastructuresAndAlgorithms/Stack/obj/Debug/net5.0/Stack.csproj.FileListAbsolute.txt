@@ -1,0 +1,16 @@
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\bin\Debug\net5.0\Stack.exe
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\bin\Debug\net5.0\Stack.deps.json
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\bin\Debug\net5.0\Stack.runtimeconfig.json
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\bin\Debug\net5.0\Stack.runtimeconfig.dev.json
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\bin\Debug\net5.0\Stack.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\bin\Debug\net5.0\ref\Stack.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\bin\Debug\net5.0\Stack.pdb
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\obj\Debug\net5.0\Stack.csproj.AssemblyReference.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\obj\Debug\net5.0\Stack.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\obj\Debug\net5.0\Stack.AssemblyInfoInputs.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\obj\Debug\net5.0\Stack.AssemblyInfo.cs
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\obj\Debug\net5.0\Stack.csproj.CoreCompileInputs.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\obj\Debug\net5.0\Stack.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\obj\Debug\net5.0\ref\Stack.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\obj\Debug\net5.0\Stack.pdb
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\Stack\obj\Debug\net5.0\Stack.genruntimeconfig.cache
