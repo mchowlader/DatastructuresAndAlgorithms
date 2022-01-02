@@ -30,7 +30,5 @@ namespace Stack
             stackD.push(13);
             stackD.push(14);
         }
-
-        
     }
 }
