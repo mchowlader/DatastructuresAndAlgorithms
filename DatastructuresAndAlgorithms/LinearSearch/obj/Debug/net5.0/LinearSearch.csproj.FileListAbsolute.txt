@@ -1,0 +1,16 @@
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.exe
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.deps.json
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.json
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.dev.json
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\bin\Debug\net5.0\ref\LinearSearch.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\bin\Debug\net5.0\LinearSearch.pdb
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.AssemblyReference.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfoInputs.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfo.cs
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.CoreCompileInputs.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\obj\Debug\net5.0\ref\LinearSearch.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.pdb
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\LinearSearch\obj\Debug\net5.0\LinearSearch.genruntimeconfig.cache
