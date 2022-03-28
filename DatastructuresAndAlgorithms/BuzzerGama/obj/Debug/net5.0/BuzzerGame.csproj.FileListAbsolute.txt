@@ -1,0 +1,16 @@
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\bin\Debug\net5.0\BuzzerGame.exe
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\bin\Debug\net5.0\BuzzerGame.deps.json
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\bin\Debug\net5.0\BuzzerGame.runtimeconfig.json
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\bin\Debug\net5.0\BuzzerGame.runtimeconfig.dev.json
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\bin\Debug\net5.0\BuzzerGame.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\bin\Debug\net5.0\BuzzerGame.pdb
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\obj\Debug\net5.0\BuzzerGame.csproj.AssemblyReference.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\obj\Debug\net5.0\BuzzerGame.GeneratedMSBuildEditorConfig.editorconfig
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\obj\Debug\net5.0\BuzzerGame.AssemblyInfoInputs.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\obj\Debug\net5.0\BuzzerGame.AssemblyInfo.cs
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\obj\Debug\net5.0\BuzzerGame.csproj.CoreCompileInputs.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\obj\Debug\net5.0\BuzzerGame.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\obj\Debug\net5.0\refint\BuzzerGame.dll
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\obj\Debug\net5.0\BuzzerGame.pdb
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\obj\Debug\net5.0\BuzzerGame.genruntimeconfig.cache
+D:\Logic\DatastructuresAndAlgorithms\DatastructuresAndAlgorithms\BuzzerGama\obj\Debug\net5.0\ref\BuzzerGame.dll

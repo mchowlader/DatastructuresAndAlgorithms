@@ -15,7 +15,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Queue", "Queue\Queue.csproj
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LinearSearch", "LinearSearch\LinearSearch.csproj", "{943FBF5F-A9D4-41E8-A66D-6CD076645DD8}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{ECDCF9E3-C1B4-40A8-BCE2-13C29F032F02}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearch\BinarySearch.csproj", "{ECDCF9E3-C1B4-40A8-BCE2-13C29F032F02}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{F532A3C4-8055-47DA-9B02-AB44EFFBDB8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuzzerGame", "BuzzerGame\BuzzerGame.csproj", "{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,9 +55,16 @@ Global
 		{ECDCF9E3-C1B4-40A8-BCE2-13C29F032F02}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{ECDCF9E3-C1B4-40A8-BCE2-13C29F032F02}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{ECDCF9E3-C1B4-40A8-BCE2-13C29F032F02}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7} = {F532A3C4-8055-47DA-9B02-AB44EFFBDB8F}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A6AB1397-8C48-494F-A698-03F02F391821}

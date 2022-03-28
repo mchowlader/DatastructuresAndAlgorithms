@@ -3,7 +3,7 @@
   "ProjectMap": {
     "35af1868-4be9-4f57-94a3-1d151bf5c822": {
       "ProjectGuid": "35af1868-4be9-4f57-94a3-1d151bf5c822",
-      "DisplayName": "BinarySearch",
+      "DisplayName": "xxx",
       "ColorIndex": 0
     },
     "9adb6679-c7ba-4afe-a133-fe39280c55d9": {
@@ -45,7 +45,12 @@
       "ProjectGuid": "943fbf5f-a9d4-41e8-a66d-6cd076645dd8",
       "DisplayName": "LinearSearch",
       "ColorIndex": 7
+    },
+    "ecdcf9e3-c1b4-40a8-bce2-13c29f032f02": {
+      "ProjectGuid": "ecdcf9e3-c1b4-40a8-bce2-13c29f032f02",
+      "DisplayName": "BinarySearch",
+      "ColorIndex": 8
     }
   },
-  "NextColorIndex": 8
+  "NextColorIndex": 9
 }
