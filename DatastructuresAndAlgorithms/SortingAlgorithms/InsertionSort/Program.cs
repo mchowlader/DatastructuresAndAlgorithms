@@ -48,6 +48,6 @@ namespace InsertionSort
 //-Time: O(n)
 //-Space: O(n)
 
-//Worse case insertion sort:
+//Worst case insertion sort:
 //-Time: O(n^2)
 //-Space: O(n^2)
