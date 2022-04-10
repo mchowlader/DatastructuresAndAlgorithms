@@ -19,7 +19,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BinarySearch", "BinarySearc
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Array", "Array", "{F532A3C4-8055-47DA-9B02-AB44EFFBDB8F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuzzerGame", "BuzzerGame\BuzzerGame.csproj", "{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BuzzerGame", "BuzzerGame\BuzzerGame.csproj", "{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "LinkList", "LinkList", "{7238E947-0ADB-4C19-957A-5246A0357F56}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SingleLinkList", "SingleLinkList\SingleLinkList.csproj", "{4A88628C-AE1B-49FD-9489-EAEDD39D84A6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SortingAlgorithms", "SortingAlgorithms", "{DD4DF6FC-D559-40E4-A8AB-EBF46E5874F5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SelectionSort", "SortingAlgorithms\SelectionSort\SelectionSort.csproj", "{38DB6BD6-D0BD-4563-A064-750F9031F293}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InsertionSort", "SortingAlgorithms\InsertionSort\InsertionSort.csproj", "{A428FC06-07F7-4C58-A5A3-527FA8AF2750}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -59,12 +69,27 @@ Global
 		{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4A88628C-AE1B-49FD-9489-EAEDD39D84A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A88628C-AE1B-49FD-9489-EAEDD39D84A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A88628C-AE1B-49FD-9489-EAEDD39D84A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A88628C-AE1B-49FD-9489-EAEDD39D84A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{38DB6BD6-D0BD-4563-A064-750F9031F293}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{38DB6BD6-D0BD-4563-A064-750F9031F293}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{38DB6BD6-D0BD-4563-A064-750F9031F293}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{38DB6BD6-D0BD-4563-A064-750F9031F293}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A428FC06-07F7-4C58-A5A3-527FA8AF2750}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A428FC06-07F7-4C58-A5A3-527FA8AF2750}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A428FC06-07F7-4C58-A5A3-527FA8AF2750}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A428FC06-07F7-4C58-A5A3-527FA8AF2750}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{BF225FE4-B27C-4FD6-BF11-4CD4A32F34A7} = {F532A3C4-8055-47DA-9B02-AB44EFFBDB8F}
+		{4A88628C-AE1B-49FD-9489-EAEDD39D84A6} = {7238E947-0ADB-4C19-957A-5246A0357F56}
+		{38DB6BD6-D0BD-4563-A064-750F9031F293} = {DD4DF6FC-D559-40E4-A8AB-EBF46E5874F5}
+		{A428FC06-07F7-4C58-A5A3-527FA8AF2750} = {DD4DF6FC-D559-40E4-A8AB-EBF46E5874F5}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A6AB1397-8C48-494F-A698-03F02F391821}

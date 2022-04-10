@@ -6,7 +6,9 @@ namespace Queue
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            var queue = new CircularQueue(5);
+
+            queue.Enqueue(1);
         }
     }
 }
